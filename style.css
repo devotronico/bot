@@ -1,0 +1,36 @@
+body{
+    background-color:#333;
+    padding:200px;
+}
+
+
+
+.chat{
+
+    width:300px;
+    min-height:100px;
+    margin: 10px auto;
+    padding: 8px;
+    background-color:#fff;
+}
+
+
+form{
+    width:300px;
+    margin: auto;
+}
+
+textarea{
+    width:100%;
+    background-color:#ddd;
+}
+
+
+
+.cliente{
+    color:blue;
+}
+
+.bot{
+    color:red;
+}
